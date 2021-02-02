@@ -13,7 +13,7 @@ body {
   padding: 10px 3rem;
   min-height: 100vh;
   margin: 1rem;
-  background-color: rgb(251, 255, 245);
+  background-color: rgb(253, 255, 253);
 }
 
 img {
@@ -34,8 +34,8 @@ a {
 }
 
 a:hover {
-  color: #87ce09;
-  background-color: white;
+  color: #ffffff;
+  background-color: #7fc20c;
 }
 
 h3 {
